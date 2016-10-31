@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+SegmentedControl is a little IBDesignable for a UIView, the goal is create an easy UIControl view with custom properties.
                        DESC
 
   s.homepage         = 'https://github.com/TRESNATIVO/SegmentedControl'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Benny Franco' => 'bennyfranco@tresnativo.com' }
-s.source           = { :git => 'https://github.com/TRESNATIVO/SegmentedControl.git', :tag=>''}
+s.source           = { :git => 'https://github.com/TRESNATIVO/SegmentedControl.git', :tag=>'0.1.0'}
   s.social_media_url = 'https://twitter.com/tresnativo'
 
   s.ios.deployment_target = '8.0'
