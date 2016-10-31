@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'SegmentedControl'
+  s.name             = 'TresNativoSegmentedControl'
   s.version          = '0.1.0'
-  s.summary          = 'SegmentedControl is a little IBDesignable for a View.'
+  s.summary          = 'TresNativoSegmentedControl is a little IBDesignable for a View.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
