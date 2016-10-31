@@ -1,6 +1,6 @@
 # SegmentedControl
 
-[![CI Status](http://img.shields.io/travis/Benny Franco/SegmentedControl.svg?style=flat)](https://travis-ci.org/Benny Franco/SegmentedControl)
+[![CI Status](http://img.shields.io/travis/TRESNATIVO/SegmentedControl.svg?style=flat)](https://travis-ci.org/TRESNATIVO/SegmentedControl)
 [![Version](https://img.shields.io/cocoapods/v/SegmentedControl.svg?style=flat)](http://cocoapods.org/pods/SegmentedControl)
 [![License](https://img.shields.io/cocoapods/l/SegmentedControl.svg?style=flat)](http://cocoapods.org/pods/SegmentedControl)
 [![Platform](https://img.shields.io/cocoapods/p/SegmentedControl.svg?style=flat)](http://cocoapods.org/pods/SegmentedControl)
