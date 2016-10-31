@@ -12,11 +12,10 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-SegmentedControl is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+To install simply add the following line to your Podfile:
 
 ```ruby
-pod "SegmentedControl"
+pod 'SegmentedControl', :git=> 'https://github.com/TRESNATIVO/SegmentedControl.git'
 ```
 
 ## Author
