@@ -22,7 +22,7 @@ pod "SegmentedControl"
 
 ## Author
 
-Benny Franco, bennyfranco@sandcode.com
+Benny Franco, bennyfranco@tresnativo.com
 
 ## License
 
