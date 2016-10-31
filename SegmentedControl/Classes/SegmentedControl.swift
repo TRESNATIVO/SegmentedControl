@@ -10,7 +10,7 @@ import UIKit
 
 @IBDesignable class SegmentedControl: UIControl {
     
-    fileprivate var labels = [UILabel]()
+    var labels = [UILabel]()
     
     var items: [String] = ["Registro", "Iniciar Sesión"] {
         didSet {

@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TresNativoSegmentedControl'
+  s.name             = 'SegmentedControl'
   s.version          = '0.1.0'
-  s.summary          = 'TresNativoSegmentedControl is a little IBDesignable for a View.'
+  s.summary          = 'SegmentedControl is a little IBDesignable for a View.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Benny Franco' => 'bennyfranco@tresnativo.com' }
-  s.source           = { :git => 'https://github.com/TRESNATIVO/SegmentedControl.git'}
+s.source           = { :git => 'https://github.com/TRESNATIVO/SegmentedControl.git', :tag=>''}
   s.social_media_url = 'https://twitter.com/tresnativo'
 
   s.ios.deployment_target = '8.0'
