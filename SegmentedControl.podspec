@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/SegmentedControl'
+  s.homepage         = 'https://github.com/TRESNATIVO/SegmentedControl'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Benny Franco' => 'bennyfranco@sandcode.com' }
+  s.author           = { 'Benny Franco' => 'bennyfranco@tresnativo.com' }
   s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/SegmentedControl.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
