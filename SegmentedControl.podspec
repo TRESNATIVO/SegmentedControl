@@ -28,7 +28,7 @@ SegmentedControl is a little IBDesignable for a UIView, the goal is create an ea
 s.source           = { :git => 'https://github.com/TRESNATIVO/SegmentedControl.git', :tag=>'0.1.0'}
   s.social_media_url = 'https://twitter.com/tresnativo'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'SegmentedControl/Classes/**/*'
   
